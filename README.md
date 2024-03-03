@@ -29,7 +29,10 @@ This is currently the first iteration of the game : v0.0
 
 # Design & Constraints
 This game was developed in Python with pygame, thus you have to have this library and a few others installed.
+
 If you don't have Python, no problem : the "Delegation.7z" file contains an automatic launcher called "main" that will install Python and the required packages and automatically launch the game.
+Here is my Fropbox link to download it : https://www.dropbox.com/scl/fi/wnwsw14ycv8w0qkzhdxp7/Delegation.zip?rlkey=x4slfbzk9juo73tkwb9cx2boj&dl=0
+
 The game has, for the moment, no graphic options, and is designed to run in a 1500x1000 window. So be sure to adapt your screen resolution to make it run.
 
 # Future developments
@@ -42,4 +45,4 @@ I'm really eager for some feedback so don't hesitate to come and join the dedica
 - Report some bugs
 - Discuss some improvements, whether about the interface, the concept, the physical model of events, the influence of characteristics etc...
 
-Here it is : 
+Here it is : https://discord.gg/dH9TPcxN
